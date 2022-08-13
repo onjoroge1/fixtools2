@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be8ea917.css",
+    "main.js": "/static/js/main.1f16dddd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/fixtools-logos_black.svg": "/static/media/fixtools-logos_black.8b8a7a15a50d6bc105ee9eec0b894d3e.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.be8ea917.css.map": "/static/css/main.be8ea917.css.map",
+    "main.1f16dddd.js.map": "/static/js/main.1f16dddd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be8ea917.css",
+    "static/js/main.1f16dddd.js"
+  ]
+}
